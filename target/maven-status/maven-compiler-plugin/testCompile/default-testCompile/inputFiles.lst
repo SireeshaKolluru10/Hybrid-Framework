@@ -1,0 +1,12 @@
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\pageObjects\BasePage.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\pageObjects\HomePage.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\pageObjects\LoginPage.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\pageObjects\RegestrationPage.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\testBase\BaseTest.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\testCases\TC001_UserRegestration.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\testCases\TC002_VerifyLogin.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\testCases\TC003_VerifyLoginUsingVariousData.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\utilities\DataProviderClass.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\utilities\ExcelUtility.java
+C:\Users\sirisha\OneDrive\Desktop\SeleniumPractice\opencart\src\test\java\utilities\ExtentReportManager.java
